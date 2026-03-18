@@ -148,4 +148,3 @@ Now when changing the `FOLDER` parameter the search is using a different index (
 
 Now you point the search engine to your local folder by running: `search.sh write`. 
   
-If you want to learn more about the project, have a look at the related post: <http://www.bernhardwenzel.com/blog/2015/08/17/how-to-have-an-elephant-brain/>
