@@ -1,0 +1,11 @@
+query=ICD&fields=None
+query=ICD-10&fields=None
+query=oncare&fields=tags
+query=Deanna&fields=None
+query=hospice&fields=filename
+query=hospice&fields=tags
+query=hospice&fields=None
+query=DEANNA&fields=None
+query=Therapy&fields=None
+query=therapy&fields=None
+query=oncare&fields=None
